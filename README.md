@@ -15,13 +15,17 @@
 - `子畏于匡：孔子“匡地成圣”论V6.1.1-V3.7.7.md` —— 论文全文（Markdown）
 - `/related-studies/` —— 相关系列研究（《论语》分析、诗经分析等）
 
+- 从下面的链接也可以访问本论文
+- https://zenodo.org/records/22065664
+- https://philpapers.org/rec/YANTMB-4
+
 ## 📚 关键词
 
 孔子，匡地，成圣，天命，拣选，献祭，子畏于匡，论语，Confucius，Kuang，sagehood，sainthood，Analects
 
 ## 📖 引用
 
-杨裕亮. 子畏于匡：孔子"匡地成圣"论——成圣的时空坐标[EB/OL]. GitHub, 2026. https://github.com/你的用户名/kuang-di-cheng-sheng
+Yang, Y. (2026). 子畏于匡:孔子"匡地成圣"论——成圣的时空坐标 The Master Besieged in Kuang: the thesis that Confucius attained sagehood at Kuang — Spatiotemporal Coordinates of Sagehood (Version 3.7.7). Zenodo. https://doi.org/10.5281/zenodo.22065664
 
 ## 📜 许可证
 
