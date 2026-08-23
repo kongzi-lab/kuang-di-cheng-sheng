@@ -1,4 +1,10 @@
 # kuang-di-cheng-sheng
+
+论文同时开源在下面的链接：
+https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Yang%2C%20Yuliang%22&l=list&p=1&s=10&sort=bestmatch
+
+https://philpeople.org/profiles/yuliang-yang
+
 # 匡地成圣论｜Sainthood at Kuang
 
 孔子约56岁时在匡地被天命拣选为圣人的历史与哲学研究。
