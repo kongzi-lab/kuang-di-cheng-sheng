@@ -1,4 +1,6 @@
-**All works in this repository are licensed under the CC BY 4.0 license. You are welcome to cite and share, please indicate the source.**
+© 2026 杨裕亮.  All works in this repository are licensed under a [Creative Commons Attribution 4.0 International License] (https://creativecommons.org/licenses/by/4.0/)  (CC BY 4.0). 
+You are welcome to cite and share, please indicate the source.
+
 
 # 孔子"匡地成圣"论的提出与论证
 ---
