@@ -1,3 +1,4 @@
+**All works in this repository are licensed under the CC BY 4.0 license. You are welcome to cite and share, please indicate the source.**
 
 # 孔子"匡地成圣"论的提出与论证
 ---
