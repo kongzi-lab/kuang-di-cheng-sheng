@@ -95,7 +95,7 @@ You are welcome to cite and share, please indicate the source.
 
 本仓库为最新版本，更新最快。PhilArchive 与 Zenodo 为稳定存档版本，便于长期保存与检索。
 
-- **GitHub**（主版本，更新最快）：https://github.com/xgx2000/kuang-di-cheng-sheng
+- **GitHub**（主版本，更新最快）：[搜索‘匡地成圣’论即可找到](https://github.com/kongzi-lab/kuang-di-cheng-sheng)
 - **PhilArchive**（备份存档）：[搜索论文全名“子畏于匡：孔子‘匡地成圣’论”即可找到](https://philpeople.org/profiles/yuliang-yang)
 - **Zenodo**（备份存档）：[同上](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Yang%2C%20Yuliang%22&l=list&p=1&s=10&sort=bestmatch)
 
