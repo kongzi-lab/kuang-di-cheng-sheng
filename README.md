@@ -122,12 +122,15 @@ You are welcome to cite and share, please indicate the source.
 kuang-di-cheng-sheng/
 ├── README.md                             ← 本文件，仓库总说明
 │
-├── 子畏于匡：孔子“匡地成圣”论V3.7.7.pdf    ← 核心论文（PDF）
-├── 子畏于匡：孔子“匡地成圣”论V3.7.7.md     ← 核心论文（Markdown）
+├── 子畏于匡：孔子“匡地成圣”论.pdf          ← 核心论文（PDF）
+├── 子畏于匡：孔子“匡地成圣”论.md           ← 核心论文（Markdown）
 │
-├── 下学而上达——孔子思想层次（V3.2.3）.md   ← 框架文章：思想体系总览
+├── 下学而上达——孔子思想层次.md             ← 框架文章：思想体系总览
 ├── 孔子思想体系层次图-带论文题目-V2.png    ← 框架图：视觉化呈现
 │
+├── 颜回孔门地位与华夏道统叙事.pdf          ← 核心论文（PDF）
+├── 颜回孔门地位与华夏道统叙事.md           ← 核心论文（Markdown）
+|
 └── related-studies/                      ← 其他所有系列研究
     ├── 诗经专题/
     ├── 孔子考证/
