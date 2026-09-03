@@ -33,7 +33,8 @@ You are welcome to cite and share, please indicate the source.
 
 - **图1 孔子思想的三层结构（杨裕亮，2026，基于"匡地成圣"说）**（PNG）
  ![孔子思想的三层结构图：第一层性与天道，第二层仁与礼，第三层众德与日用 - Confucius Thought Three-Layer Structure](./confucius-thought-three-layer-structure-yuliang-yang.png)
- 孔子思想体系的视觉化呈现，摘自论文《下学而上达》。
+
+孔子思想体系的视觉化呈现，摘自论文《下学而上达》。
 
 学界对孔子思想的层次划分主要有：①"性与天道／仁礼中庸"之两层面说；
 ②"形上层／价值层／实践层"之三层次说；③"为人求本…为世求安"之四重境界说；
