@@ -31,9 +31,39 @@ You are welcome to cite and share, please indicate the source.
 - **《颜回孔门地位与华夏道统叙事——基于“匡地成圣”模型的最优自洽重构》**（PDF / MD）
   根据“匡地成圣”论揭示颜回在孔门三千弟子中享有独一无二的神圣地位的原因。本文首次揭示了两千年《论语》研究史上从未被发现的文本结构——《子罕》《先进》两篇之间存在“双重镜像结构”：《子罕》篇记孔子匡地成圣（子畏于匡）+子路使门人为臣（违礼致敬孔子），《先进》篇记颜回见证立约（子畏于匡）+门人厚葬颜回（违礼致敬颜回）。两篇结构完全对称，互为镜像。
 
-- **孔子思想体系层次图**（PNG）
- ![孔子思想的三层结构图：第一层性与天道，第二层仁与礼，第三层众德与日用 - Confucius Thought Three-Layer Structure](./孔子思想体系层次图-带论文题目-V2.png)
+- **图1 孔子思想的三层结构（杨裕亮，2026，基于"匡地成圣"说）**（PNG）
+ ![孔子思想的三层结构图：第一层性与天道，第二层仁与礼，第三层众德与日用 - Confucius Thought Three-Layer Structure](./confucius-thought-three-layer-structure-yuliang-yang.png)
  孔子思想体系的视觉化呈现，摘自论文《下学而上达》。
+
+学界对孔子思想的层次划分主要有：①"性与天道／仁礼中庸"之两层面说；
+②"形上层／价值层／实践层"之三层次说；③"为人求本…为世求安"之四重境界说；
+④"志于道、据于德、依于仁、游于艺"之四层次说；⑤仁、礼、政治、教育等多板块罗列。
+
+本文提出的"三层结构"——超越本源（性与天道）—人道本体（仁与礼）—实践功夫
+（众德与日用）——区别于既有分法之处在于：它是以下学上达的成圣路径为线索、
+并以图形化层次呈现的首个完整体系。
+
+出处：杨裕亮《下学而上达——〈诗经〉〈论语〉中的孔子思想层次》，
+Zenodo, 2026，DOI: 10.5281/zenodo.21856914
+
+Figure 1. The Three-Layer Structure of Confucius' Thought (Yuliang Yang, 2026,
+based on the "Kuang-di-cheng-sheng" thesis)
+
+Existing hierarchical accounts of Confucius' thought include: (1) the two-level
+view ("nature and the Way of Heaven" / "benevolence, ritual and the doctrine
+of the mean"); (2) the three-level view (metaphysical / evaluative / practical);
+(3) the four-stage "realm" view (seeking foundation in self → principle in action
+→ harmony in governance → peace in the world); (4) the four-level schema
+"devoted to the Way, grounded in virtue, anchored in benevolence, versed in the arts";
+and (5) various multi-category inventories (benevolence, ritual, politics, education, etc.).
+
+The present "three-layer structure" — Transcendent Source (Nature & the Way of Heaven)
+→ Humanistic Ontology (Benevolence & Ritual) → Practical Cultivation (the virtues & daily life)
+— differs from these earlier accounts in that it follows the "ascending from below to reach above"
+(path to sagehood) as its thread, and is the first complete system presented as a graphic hierarchy.
+
+Source: Yuliang Yang, 下学而上达——〈诗经〉〈论语〉中的孔子思想层次 (Version 3.2.0),
+Zenodo, 2026, DOI: 10.5281/zenodo.21856914
 
 **<center>表 1：孔子思想的三层结构</center>**
 |    层级   |  核心内容 |             基本定位            |
